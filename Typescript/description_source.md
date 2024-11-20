@@ -1,1 +1,1 @@
-Plan learning
+PLAN LEARNING
