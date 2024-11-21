@@ -8,7 +8,7 @@ Link resource: https://javascript.info/
 
 | Sub topics                           | Status |
 | :----------------------------------- | :----: |
-| 01. Hello, work!                     |  [x]   |
+| 01. Hello, work!                     |  -[x]  |
 | 02. Code structure                   |        |
 | 03. The modern mode, "use strict"    |        |
 | 04. Variables                        |        |
