@@ -1,4 +1,4 @@
-# **Hello, world!** (https://javascript.info/hello-world)
+# **Hello, world!** [link](https://javascript.info/hello-world)
 
 ## The "script" tag:
 
@@ -41,14 +41,12 @@ To attach several script, use multiple tags:
 …
 ```
 
-<div class="boxed">
-    <b><span color="#4b94be">\e838</span> Please note:</b>
-    As a rules, only the simplest scripts are put into HTML. More complex ones reside in separate files.
-    The benefit of a separate files is that the browser will download it and store it in its cache.
-    Other pages that reference the same script will take it from the cache instead of downloading it, so the file is actually downloaded only once.
-    The reduces traffic and makes pages faster.
-</div>
+**Please note:**
+<code>
+As a rules, only the simplest scripts are put into HTML. More complex ones reside in separate files.
+The benefit of a separate files is that the browser will download it and store it in its cache.
+Other pages that reference the same script will take it from the cache instead of downloading it, so the file is actually downloaded only once.
+The reduces traffic and makes pages faster.
+</code>
 
-<div class="boxed">
-    <b><span color="#df6e41">\e83a</span> If <code>src</code> is set, the script content is ignored</b>
-</div>
+**If <code>src</code> is set, the script content is ignored**
