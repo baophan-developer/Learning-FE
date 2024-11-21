@@ -6,25 +6,25 @@ Link resource: https://javascript.info/
 
 **I. Javascript fundamentals**
 
-| Sub topics                           | Status |
-| :----------------------------------- | :----: |
-| 01. Hello, work!                     |  -[x]  |
-| 02. Code structure                   |        |
-| 03. The modern mode, "use strict"    |        |
-| 04. Variables                        |        |
-| 05. Data types                       |        |
-| 06. Type Conversions                 |        |
-| 07. Basic operators, maths           |        |
-| 08. Comparisons                      |        |
-| 09. Conditional branching: if, '?'   |        |
-| 10. Logical operators                |        |
-| 11. Nullish coalescing operator '??' |        |
-| 12. Loops: while and for             |        |
-| 13. The "switch" statement           |        |
-| 14. Functions                        |        |
-| 15. Function expressions             |        |
-| 16. Arrow functions, the basics      |        |
-| 17. Javascript specials              |        |
+| Sub topics                           |       Status       |
+| :----------------------------------- | :----------------: |
+| 01. Hello, work!                     | :heavy_check_mark: |
+| 02. Code structure                   |                    |
+| 03. The modern mode, "use strict"    |                    |
+| 04. Variables                        |                    |
+| 05. Data types                       |                    |
+| 06. Type Conversions                 |                    |
+| 07. Basic operators, maths           |                    |
+| 08. Comparisons                      |                    |
+| 09. Conditional branching: if, '?'   |                    |
+| 10. Logical operators                |                    |
+| 11. Nullish coalescing operator '??' |                    |
+| 12. Loops: while and for             |                    |
+| 13. The "switch" statement           |                    |
+| 14. Functions                        |                    |
+| 15. Function expressions             |                    |
+| 16. Arrow functions, the basics      |                    |
+| 17. Javascript specials              |                    |
 
 **II. Code quality**
 
