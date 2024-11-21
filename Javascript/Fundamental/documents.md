@@ -31,21 +31,19 @@ Here, <code>/path/to/script.js</code> is an absolute path to the script from the
 
 We can give a full URL as well. For instance:
 
-<code>
 ```
-    <script scr="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.js"></script>
-```
+<code><script scr="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.js"></script>
 </code>
+```
 
 To attach several script, use multiple tags:
 
-<code>
 ```
-    <script src="/js/script1.js"></script>
+<code><script src="/js/script1.js"></script>
     <script src="/js/script2.js"></script>
     …
-```
 </code>
+```
 
 <div class="boxed">
     <b><span color="#4b94be">\e838</span> Please note:</b>
