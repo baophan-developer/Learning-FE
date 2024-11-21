@@ -44,11 +44,10 @@ To attach several script, use multiple tags:
 ```
 
 **Please note:**
-<code>
-As a rules, only the simplest scripts are put into HTML. More complex ones reside in separate files.
-The benefit of a separate files is that the browser will download it and store it in its cache.
-Other pages that reference the same script will take it from the cache instead of downloading it, so the file is actually downloaded only once.
-The reduces traffic and makes pages faster.
-</code>
+
+-   As a rules, only the simplest scripts are put into HTML. More complex ones reside in separate files.
+-   The benefit of a separate files is that the browser will download it and store it in its cache.
+-   Other pages that reference the same script will take it from the cache instead of downloading it, so the file is actually downloaded only once.
+-   The reduces traffic and makes pages faster.
 
 **If <code>src</code> is set, the script content is ignored**
