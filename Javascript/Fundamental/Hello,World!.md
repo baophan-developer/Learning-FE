@@ -1,6 +1,4 @@
-# **Hello, world!**
-
-[Link Resource](https://javascript.info/hello-world)
+# **Hello, world!** ([Link Resource](https://javascript.info/hello-world))
 
 ## The "script" tag:
 
