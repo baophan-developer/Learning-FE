@@ -22,7 +22,9 @@ The <code><script></code> tag has a few attributes that are rarely used nowadays
 Script files are attached to HTML with the <code>scr</code> attribute:
 
 <code>
+```
     <script scr="/path/to/script.js"></script>
+```
 </code>
 
 Here, <code>/path/to/script.js</code> is an absolute path to the script from the site root. One can also provide a relative path from the current page.
@@ -30,15 +32,19 @@ Here, <code>/path/to/script.js</code> is an absolute path to the script from the
 We can give a full URL as well. For instance:
 
 <code>
+```
     <script scr="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.js"></script>
+```
 </code>
 
 To attach several script, use multiple tags:
 
 <code>
+```
     <script src="/js/script1.js"></script>
     <script src="/js/script2.js"></script>
     …
+```
 </code>
 
 <div class="boxed">
