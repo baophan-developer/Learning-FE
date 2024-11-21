@@ -6,17 +6,25 @@ Link resource: https://javascript.info/
 
 **I. Javascript fundamentals**
 
-| Sub topics                        | Status | Sub topics                           | Status |
-| :-------------------------------- | :----: | :----------------------------------- | :----: |
-| 1. Hello, work!                   |        | 10. Logical operators                |        |
-| 2. Code structure                 |        | 11. Nullish coalescing operator '??' |        |
-| 3. The modern mode, "use strict"  |        | 12. Loops: while and for             |        |
-| 4. Variables                      |        | 13. The "switch" statement           |        |
-| 5. Data types                     |        | 14. Functions                        |        |
-| 6. Type Conversions               |        | 15. Function expressions             |        |
-| 7. Basic operators, maths         |        | 16. Arrow functions, the basics      |        |
-| 8. Comparisons                    |        | 17. Javascript specials              |        |
-| 9. Conditional branching: if, '?' |        |                                      |        |
+| Sub topics                           | Status |
+| :----------------------------------- | :----: |
+| 01. Hello, work!                     |        |
+| 02. Code structure                   |        |
+| 03. The modern mode, "use strict"    |        |
+| 04. Variables                        |        |
+| 05. Data types                       |        |
+| 06. Type Conversions                 |        |
+| 07. Basic operators, maths           |        |
+| 08. Comparisons                      |        |
+| 09. Conditional branching: if, '?'   |        |
+| 10. Logical operators                |        |
+| 11. Nullish coalescing operator '??' |        |
+| 12. Loops: while and for             |        |
+| 13. The "switch" statement           |        |
+| 14. Functions                        |        |
+| 15. Function expressions             |        |
+| 16. Arrow functions, the basics      |        |
+| 17. Javascript specials              |        |
 
 **II. Code quality**
 
@@ -41,25 +49,36 @@ Link resource: https://javascript.info/
 
 **VI. Data types**
 
-| Sub topics               | Status | Sub topics                       | Status |
-| :----------------------- | :----: | :------------------------------- | :----: |
-| 1. Methods of primitives |        | 7. Map and Set                   |        |
-| 2. Numbers               |        | 8. WeakMap and WeakSet           |        |
-| 3. Strings               |        | 9. Objects.keys, values, entries |        |
-| 4. Arrays                |        | 10. Destructuring assignment     |        |
-| 5. Array methods         |        | 11. Date and time                |        |
-| 6. Iterables             |        | 12. JSON methods, toJSON         |        |
+| Sub topics                        | Status |
+| :-------------------------------- | :----: |
+| 01. Methods of primitives         |        |
+| 02. Numbers                       |        |
+| 03. Strings                       |        |
+| 04. Arrays                        |        |
+| 05. Array methods                 |        |
+| 06. Iterables                     |        |
+| 07. Map and Set                   |        |
+| 08. WeakMap and WeakSet           |        |
+| 09. Objects.keys, values, entries |        |
+| 10. Destructuring assignment      |        |
+| 11. Date and time                 |        |
+| 12. JSON methods, toJSON          |        |
 
 **V. Advance working with functions**
 
-| Sub topics                           | Status | Sub topics                               | Status |
-| :----------------------------------- | :----: | :--------------------------------------- | :----: |
-| 1. Recursion and stack               |        | 7. The "new Function" syntax             |        |
-| 2. Rest parameters and spread syntax |        | 8. Scheduling: setTimeout, setInterval   |        |
-| 3. Variable scope, closure           |        | 9. Decorators and forwarding, call/apply |        |
-| 4. The old "var"                     |        | 10. Function binding                     |        |
-| 5. Global object                     |        | 11. Arrow functions revisited            |        |
-| 6. Function object, NFE              |        |                                          |        |
+| Sub topics                               | Status |
+| :--------------------------------------- | :----: |
+| 1. Recursion and stack                   |        |
+| 2. Rest parameters and spread syntax     |        |
+| 3. Variable scope, closure               |        |
+| 4. The old "var"                         |        |
+| 5. Global object                         |        |
+| 6. Function object, NFE                  |        |
+| 7. The "new Function" syntax             |        |
+| 8. Scheduling: setTimeout, setInterval   |        |
+| 9. Decorators and forwarding, call/apply |        |
+| 10. Function binding                     |        |
+| 11. Arrow functions revisited            |        |
 
 **VI. Error handling**
 
@@ -100,14 +119,19 @@ Link resource: https://javascript.info/
 
 **I. Document**
 
-| Sub topics                                 | Status | Sub topics                     | Status |
-| :----------------------------------------- | :----: | :----------------------------- | :----: |
-| 1. Browser environment, specs              |        | 7. Modifying the document      |        |
-| 2. DOM tree                                |        | 8. Styles and classes          |        |
-| 3. Walking the DOM                         |        | 9. Element size and scrolling  |        |
-| 4. Searching: getElement*, querySelector*  |        | 10. Window sizes and scrolling |        |
-| 5. Node properties: type, tag and contents |        | 11. Coordinates                |        |
-| 6. Attributes and properties               |        |                                |        |
+| Sub topics                                 | Status |
+| :----------------------------------------- | :----: |
+| 1. Browser environment, specs              |        |
+| 2. DOM tree                                |        |
+| 3. Walking the DOM                         |        |
+| 4. Searching: getElement*, querySelector*  |        |
+| 5. Node properties: type, tag and contents |        |
+| 6. Attributes and properties               |        |
+| 7. Modifying the document                  |        |
+| 8. Styles and classes                      |        |
+| 9. Element size and scrolling              |        |
+| 10. Window sizes and scrolling             |        |
+| 11. Coordinates                            |        |
 
 **II. Introduction to Events**
 

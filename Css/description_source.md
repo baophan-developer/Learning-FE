@@ -4,14 +4,14 @@ Link resource: https://web.dev/learn/css
 
 | Sub topics                        | Status |
 | :-------------------------------- | :----: |
-| 1. Welcome to Learn CSS!          |        |
-| 2. Box Model                      |        |
-| 4. Selectors                      |        |
-| 5. The cascade                    |        |
-| 6. Specificity                    |        |
-| 7. Inheritance                    |        |
-| 8. Color                          |        |
-| 9. Sizing Units                   |        |
+| 01. Welcome to Learn CSS!         |        |
+| 02. Box Model                     |        |
+| 04. Selectors                     |        |
+| 05. The cascade                   |        |
+| 06. Specificity                   |        |
+| 07. Inheritance                   |        |
+| 08. Color                         |        |
+| 09. Sizing Units                  |        |
 | 10. Layout                        |        |
 | 11. Flexbox                       |        |
 | 12. Gird                          |        |
