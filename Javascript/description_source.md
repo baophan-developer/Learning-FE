@@ -2,6 +2,8 @@
 
 Link resource: https://javascript.info/
 
+**PART 1: THE JAVASCRIPT LANGUAGE**
+
 **I. Javascript fundamentals**
 
 | Sub topics                        | Status | Sub topics                           | Status |
@@ -85,3 +87,70 @@ Link resource: https://javascript.info/
 | :-------------------------------- | :----: |
 | 1. Generators                     |        |
 | 2. Async iteration and generators |        |
+
+**VIII. Modules**
+
+| Sub topics               | Status |
+| :----------------------- | :----: |
+| 1. Modules, introduction |        |
+| 2. Export and Import     |        |
+| 3. Dynamic imports       |        |
+
+**PART: 2: DOCUMENT, EVENT, INTERFACE**
+
+**I. Document**
+
+| Sub topics                                 | Status | Sub topics                     | Status |
+| :----------------------------------------- | :----: | :----------------------------- | :----: |
+| 1. Browser environment, specs              |        | 7. Modifying the document      |        |
+| 2. DOM tree                                |        | 8. Styles and classes          |        |
+| 3. Walking the DOM                         |        | 9. Element size and scrolling  |        |
+| 4. Searching: getElement*, querySelector*  |        | 10. Window sizes and scrolling |        |
+| 5. Node properties: type, tag and contents |        | 11. Coordinates                |        |
+| 6. Attributes and properties               |        |                                |        |
+
+**II. Introduction to Events**
+
+| Sub topics                        | Status |
+| :-------------------------------- | :----: |
+| 1. Introduction to browser events |        |
+| 2. Bubbling and capturing         |        |
+| 3. Event delegation               |        |
+| 4. Browser default actions        |        |
+| 5. Dispatching custom events      |        |
+
+**III. UI Events**
+
+| Sub topics                                           | Status |
+| :--------------------------------------------------- | :----: |
+| 1. Mouse events                                      |        |
+| 2. Moving the mouse: mouseover/out, mouseenter/leave |        |
+| 3. Drag'nDrop with mouse events                      |        |
+| 4. Pointer events                                    |        |
+| 5. Keyboard: keydown and keyup                       |        |
+| 6. Scrolling                                         |        |
+
+**IV. Forms, controls**
+
+| Sub topics                                 | Status |
+| :----------------------------------------- | :----: |
+| 1. Form properties and methods             |        |
+| 2. Focusing: focus/blur                    |        |
+| 3. Events: change, input, cut, copy, paste |        |
+| 4. Forms: event and method submit          |        |
+
+**V. Document and resource loading**
+
+| Sub topics                                            | Status |
+| :---------------------------------------------------- | :----: |
+| 1. Page: DOCContentLoaded, load, beforeunload, unload |        |
+| 2. Scripts: async, defer                              |        |
+| 3. Resource loading: onload and onerror               |        |
+
+**VI. Miscellaneous**
+
+| Sub topics                               | Status |
+| :--------------------------------------- | :----: |
+| 1. Mutation observer                     |        |
+| 2. Selection and Range                   |        |
+| 3. Event loop: microtasks and macrotasks |        |
