@@ -16,9 +16,6 @@ The <code><script></code> tag has a few attributes that are rarely used nowadays
     This attributes was meant to show the language of the script (Javascript is default).
     There is no need to use it.
 -   **Comment before and after scripts.**
-
-    <code>
-        <script type="text/javascript"><!--
+    <script type="text/javascript"><!--
         ...
-        //--></script>
-    </code>
+    //--></script>
