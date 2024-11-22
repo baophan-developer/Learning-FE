@@ -11,7 +11,7 @@ Link resource: https://javascript.info/
 | 01. Hello, work!                     | :heavy_check_mark: |
 | 02. Code structure                   | :heavy_check_mark: |
 | 03. The modern mode, "use strict"    | :heavy_check_mark: |
-| 04. Variables                        |                    |
+| 04. Variables                        | :heavy_check_mark: |
 | 05. Data types                       |                    |
 | 06. Type Conversions                 |                    |
 | 07. Basic operators, maths           |                    |
