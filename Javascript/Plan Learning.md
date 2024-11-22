@@ -9,7 +9,7 @@ Link resource: https://javascript.info/
 | Sub topics                           |       Status       |
 | :----------------------------------- | :----------------: |
 | 01. Hello, work!                     | :heavy_check_mark: |
-| 02. Code structure                   |                    |
+| 02. Code structure                   | :heavy_check_mark: |
 | 03. The modern mode, "use strict"    |                    |
 | 04. Variables                        |                    |
 | 05. Data types                       |                    |
