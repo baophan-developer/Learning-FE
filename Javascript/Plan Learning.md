@@ -13,7 +13,7 @@ Link resource: https://javascript.info/
 | 03. The modern mode, "use strict"    | :heavy_check_mark: |
 | 04. Variables                        | :heavy_check_mark: |
 | 05. Data types                       | :heavy_check_mark: |
-| 06. Type Conversions                 |                    |
+| 06. Type Conversions                 | :heavy_check_mark: |
 | 07. Basic operators, maths           |                    |
 | 08. Comparisons                      |                    |
 | 09. Conditional branching: if, '?'   |                    |
