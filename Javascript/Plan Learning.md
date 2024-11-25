@@ -14,7 +14,7 @@ Link resource: https://javascript.info/
 | 04. Variables                        | :heavy_check_mark: |
 | 05. Data types                       | :heavy_check_mark: |
 | 06. Type Conversions                 | :heavy_check_mark: |
-| 07. Basic operators, maths           |                    |
+| 07. Basic operators, maths           | :heavy_check_mark: |
 | 08. Comparisons                      |                    |
 | 09. Conditional branching: if, '?'   |                    |
 | 10. Logical operators                |                    |
