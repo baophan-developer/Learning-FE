@@ -16,7 +16,7 @@ Link resource: https://javascript.info/
 | 06. Type Conversions                 | :heavy_check_mark: |
 | 07. Basic operators, maths           | :heavy_check_mark: |
 | 08. Comparisons                      | :heavy_check_mark: |
-| 09. Conditional branching: if, '?'   |                    |
+| 09. Conditional branching: if, '?'   | :heavy_check_mark: |
 | 10. Logical operators                |                    |
 | 11. Nullish coalescing operator '??' |                    |
 | 12. Loops: while and for             |                    |
