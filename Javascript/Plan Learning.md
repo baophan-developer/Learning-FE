@@ -18,7 +18,7 @@ Link resource: https://javascript.info/
 | 08. Comparisons                      | :heavy_check_mark: |
 | 09. Conditional branching: if, '?'   | :heavy_check_mark: |
 | 10. Logical operators                | :heavy_check_mark: |
-| 11. Nullish coalescing operator '??' |                    |
+| 11. Nullish coalescing operator '??' | :heavy_check_mark: |
 | 12. Loops: while and for             |                    |
 | 13. The "switch" statement           |                    |
 | 14. Functions                        |                    |
