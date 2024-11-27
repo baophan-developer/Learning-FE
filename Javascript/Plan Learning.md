@@ -20,7 +20,7 @@ Link resource: https://javascript.info/
 | 10. Logical operators                | :heavy_check_mark: |
 | 11. Nullish coalescing operator '??' | :heavy_check_mark: |
 | 12. Loops: while and for             | :heavy_check_mark: |
-| 13. The "switch" statement           |                    |
+| 13. The "switch" statement           | :heavy_check_mark: |
 | 14. Functions                        |                    |
 | 15. Function expressions             |                    |
 | 16. Arrow functions, the basics      |                    |
