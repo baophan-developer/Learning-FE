@@ -24,7 +24,7 @@ Link resource: https://javascript.info/
 | 14. Functions                        | :heavy_check_mark: |
 | 15. Function expressions             | :heavy_check_mark: |
 | 16. Arrow functions, the basics      | :heavy_check_mark: |
-| 17. Javascript specials              |                    |
+| 17. Javascript specials              | :heavy_check_mark: |
 
 **II. Code quality**
 
