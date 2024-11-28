@@ -28,11 +28,11 @@ Link resource: https://javascript.info/
 
 **II. Code quality**
 
-| Sub topics                  | Status |
-| :-------------------------- | :----: |
-| 1. Debugging in the browser |        |
-| 2. Coding style             |        |
-| 3. Comment                  |        |
+| Sub topics                  |       Status       |
+| :-------------------------- | :----------------: |
+| 1. Debugging in the browser | :heavy_check_mark: |
+| 2. Coding style             |                    |
+| 3. Comment                  |                    |
 
 **III. Objects: The basics**
 
