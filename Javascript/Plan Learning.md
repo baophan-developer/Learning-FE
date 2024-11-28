@@ -22,7 +22,7 @@ Link resource: https://javascript.info/
 | 12. Loops: while and for             | :heavy_check_mark: |
 | 13. The "switch" statement           | :heavy_check_mark: |
 | 14. Functions                        | :heavy_check_mark: |
-| 15. Function expressions             |                    |
+| 15. Function expressions             | :heavy_check_mark: |
 | 16. Arrow functions, the basics      |                    |
 | 17. Javascript specials              |                    |
 
