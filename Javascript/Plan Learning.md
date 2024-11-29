@@ -32,7 +32,7 @@ Link resource: https://javascript.info/
 | :-------------------------- | :----------------: |
 | 1. Debugging in the browser | :heavy_check_mark: |
 | 2. Coding style             | :heavy_check_mark: |
-| 3. Comment                  |                    |
+| 3. Comment                  | :heavy_check_mark: |
 
 **III. Objects: The basics**
 
