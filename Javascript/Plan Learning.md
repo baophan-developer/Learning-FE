@@ -31,7 +31,7 @@ Link resource: https://javascript.info/
 | Sub topics                  |       Status       |
 | :-------------------------- | :----------------: |
 | 1. Debugging in the browser | :heavy_check_mark: |
-| 2. Coding style             |                    |
+| 2. Coding style             | :heavy_check_mark: |
 | 3. Comment                  |                    |
 
 **III. Objects: The basics**
