@@ -36,16 +36,16 @@ Link resource: https://javascript.info/
 
 **III. Objects: The basics**
 
-| Sub topics                        | Status |
-| :-------------------------------- | :----: |
-| 1. Objects                        |        |
-| 2. Object references and copying  |        |
-| 3. Garbage collection             |        |
-| 4. Object methods, "this"         |        |
-| 5. Constructor, operator "new"    |        |
-| 6. Optional chaining "?"          |        |
-| 7. Symbol type                    |        |
-| 8. Object to primitive conversion |        |
+| Sub topics                        |       Status       |
+| :-------------------------------- | :----------------: |
+| 1. Objects                        | :heavy_check_mark: |
+| 2. Object references and copying  |                    |
+| 3. Garbage collection             |                    |
+| 4. Object methods, "this"         |                    |
+| 5. Constructor, operator "new"    |                    |
+| 6. Optional chaining "?"          |                    |
+| 7. Symbol type                    |                    |
+| 8. Object to primitive conversion |                    |
 
 **VI. Data types**
 
