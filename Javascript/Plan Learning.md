@@ -39,7 +39,7 @@ Link resource: https://javascript.info/
 | Sub topics                        |       Status       |
 | :-------------------------------- | :----------------: |
 | 1. Objects                        | :heavy_check_mark: |
-| 2. Object references and copying  |                    |
+| 2. Object references and copying  | :heavy_check_mark: |
 | 3. Garbage collection             |                    |
 | 4. Object methods, "this"         |                    |
 | 5. Constructor, operator "new"    |                    |
