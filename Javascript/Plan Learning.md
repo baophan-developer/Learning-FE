@@ -41,7 +41,7 @@ Link resource: https://javascript.info/
 | 1. Objects                        | :heavy_check_mark: |
 | 2. Object references and copying  | :heavy_check_mark: |
 | 3. Garbage collection             | :heavy_check_mark: |
-| 4. Object methods, "this"         |                    |
+| 4. Object methods, "this"         | :heavy_check_mark: |
 | 5. Constructor, operator "new"    |                    |
 | 6. Optional chaining "?"          |                    |
 | 7. Symbol type                    |                    |
