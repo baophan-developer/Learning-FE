@@ -43,7 +43,7 @@ Link resource: https://javascript.info/
 | 3. Garbage collection             | :heavy_check_mark: |
 | 4. Object methods, "this"         | :heavy_check_mark: |
 | 5. Constructor, operator "new"    | :heavy_check_mark: |
-| 6. Optional chaining "?"          |                    |
+| 6. Optional chaining "?"          | :heavy_check_mark: |
 | 7. Symbol type                    |                    |
 | 8. Object to primitive conversion |                    |
 
