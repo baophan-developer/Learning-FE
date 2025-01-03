@@ -45,7 +45,7 @@ Link resource: https://javascript.info/
 | 5. Constructor, operator "new"    | :heavy_check_mark: |
 | 6. Optional chaining "?"          | :heavy_check_mark: |
 | 7. Symbol type                    | :heavy_check_mark: |
-| 8. Object to primitive conversion |                    |
+| 8. Object to primitive conversion | :heavy_check_mark: |
 
 **VI. Data types**
 
