@@ -49,20 +49,20 @@ Link resource: https://javascript.info/
 
 **VI. Data types**
 
-| Sub topics                        | Status |
-| :-------------------------------- | :----: |
-| 01. Methods of primitives         |        |
-| 02. Numbers                       |        |
-| 03. Strings                       |        |
-| 04. Arrays                        |        |
-| 05. Array methods                 |        |
-| 06. Iterables                     |        |
-| 07. Map and Set                   |        |
-| 08. WeakMap and WeakSet           |        |
-| 09. Objects.keys, values, entries |        |
-| 10. Destructuring assignment      |        |
-| 11. Date and time                 |        |
-| 12. JSON methods, toJSON          |        |
+| Sub topics                        |       Status       |
+| :-------------------------------- | :----------------: |
+| 01. Methods of primitives         | :heavy_check_mark: |
+| 02. Numbers                       |                    |
+| 03. Strings                       |                    |
+| 04. Arrays                        |                    |
+| 05. Array methods                 |                    |
+| 06. Iterables                     |                    |
+| 07. Map and Set                   |                    |
+| 08. WeakMap and WeakSet           |                    |
+| 09. Objects.keys, values, entries |                    |
+| 10. Destructuring assignment      |                    |
+| 11. Date and time                 |                    |
+| 12. JSON methods, toJSON          |                    |
 
 **V. Advance working with functions**
 
