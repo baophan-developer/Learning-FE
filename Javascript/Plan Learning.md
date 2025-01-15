@@ -54,7 +54,7 @@ Link resource: https://javascript.info/
 | 01. Methods of primitives         | :heavy_check_mark: |
 | 02. Numbers                       | :heavy_check_mark: |
 | 03. Strings                       | :heavy_check_mark: |
-| 04. Arrays                        |                    |
+| 04. Arrays                        | :heavy_check_mark: |
 | 05. Array methods                 |                    |
 | 06. Iterables                     |                    |
 | 07. Map and Set                   |                    |
