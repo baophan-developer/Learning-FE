@@ -55,7 +55,7 @@ Link resource: https://javascript.info/
 | 02. Numbers                       | :heavy_check_mark: |
 | 03. Strings                       | :heavy_check_mark: |
 | 04. Arrays                        | :heavy_check_mark: |
-| 05. Array methods                 |                    |
+| 05. Array methods                 | :heavy_check_mark: |
 | 06. Iterables                     |                    |
 | 07. Map and Set                   |                    |
 | 08. WeakMap and WeakSet           |                    |
