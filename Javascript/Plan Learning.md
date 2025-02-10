@@ -57,7 +57,7 @@ Link resource: https://javascript.info/
 | 04. Arrays                        | :heavy_check_mark: |
 | 05. Array methods                 | :heavy_check_mark: |
 | 06. Iterables                     | :heavy_check_mark: |
-| 07. Map and Set                   |                    |
+| 07. Map and Set                   | :heavy_check_mark: |
 | 08. WeakMap and WeakSet           |                    |
 | 09. Objects.keys, values, entries |                    |
 | 10. Destructuring assignment      |                    |
