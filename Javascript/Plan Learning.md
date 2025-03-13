@@ -62,7 +62,7 @@ Link resource: https://javascript.info/
 | 09. Objects.keys, values, entries | :heavy_check_mark: |
 | 10. Destructuring assignment      | :heavy_check_mark: |
 | 11. Date and time                 | :heavy_check_mark: |
-| 12. JSON methods, toJSON          |                    |
+| 12. JSON methods, toJSON          | :heavy_check_mark: |
 
 **V. Advance working with functions**
 
