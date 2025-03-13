@@ -66,19 +66,19 @@ Link resource: https://javascript.info/
 
 **V. Advance working with functions**
 
-| Sub topics                               | Status |
-| :--------------------------------------- | :----: |
-| 1. Recursion and stack                   |        |
-| 2. Rest parameters and spread syntax     |        |
-| 3. Variable scope, closure               |        |
-| 4. The old "var"                         |        |
-| 5. Global object                         |        |
-| 6. Function object, NFE                  |        |
-| 7. The "new Function" syntax             |        |
-| 8. Scheduling: setTimeout, setInterval   |        |
-| 9. Decorators and forwarding, call/apply |        |
-| 10. Function binding                     |        |
-| 11. Arrow functions revisited            |        |
+| Sub topics                               |       Status       |
+| :--------------------------------------- | :----------------: |
+| 1. Recursion and stack                   | :heavy_check_mark: |
+| 2. Rest parameters and spread syntax     |                    |
+| 3. Variable scope, closure               |                    |
+| 4. The old "var"                         |                    |
+| 5. Global object                         |                    |
+| 6. Function object, NFE                  |                    |
+| 7. The "new Function" syntax             |                    |
+| 8. Scheduling: setTimeout, setInterval   |                    |
+| 9. Decorators and forwarding, call/apply |                    |
+| 10. Function binding                     |                    |
+| 11. Arrow functions revisited            |                    |
 
 **VI. Error handling**
 
