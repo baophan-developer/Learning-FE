@@ -69,7 +69,7 @@ Link resource: https://javascript.info/
 | Sub topics                               |       Status       |
 | :--------------------------------------- | :----------------: |
 | 1. Recursion and stack                   | :heavy_check_mark: |
-| 2. Rest parameters and spread syntax     |                    |
+| 2. Rest parameters and spread syntax     | :heavy_check_mark: |
 | 3. Variable scope, closure               |                    |
 | 4. The old "var"                         |                    |
 | 5. Global object                         |                    |
