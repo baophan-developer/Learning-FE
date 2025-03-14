@@ -73,7 +73,7 @@ Link resource: https://javascript.info/
 | 3. Variable scope, closure               | :heavy_check_mark: |
 | 4. The old "var"                         | :heavy_check_mark: |
 | 5. Global object                         | :heavy_check_mark: |
-| 6. Function object, NFE                  |                    |
+| 6. Function object, NFE                  | :heavy_check_mark: |
 | 7. The "new Function" syntax             |                    |
 | 8. Scheduling: setTimeout, setInterval   |                    |
 | 9. Decorators and forwarding, call/apply |                    |
