@@ -71,8 +71,8 @@ Link resource: https://javascript.info/
 | 1. Recursion and stack                   | :heavy_check_mark: |
 | 2. Rest parameters and spread syntax     | :heavy_check_mark: |
 | 3. Variable scope, closure               | :heavy_check_mark: |
-| 4. The old "var"                         |                    |
-| 5. Global object                         |                    |
+| 4. The old "var"                         | :heavy_check_mark: |
+| 5. Global object                         | :heavy_check_mark: |
 | 6. Function object, NFE                  |                    |
 | 7. The "new Function" syntax             |                    |
 | 8. Scheduling: setTimeout, setInterval   |                    |
