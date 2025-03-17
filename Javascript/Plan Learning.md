@@ -74,7 +74,7 @@ Link resource: https://javascript.info/
 | 4. The old "var"                         | :heavy_check_mark: |
 | 5. Global object                         | :heavy_check_mark: |
 | 6. Function object, NFE                  | :heavy_check_mark: |
-| 7. The "new Function" syntax             |                    |
+| 7. The "new Function" syntax             | :heavy_check_mark: |
 | 8. Scheduling: setTimeout, setInterval   |                    |
 | 9. Decorators and forwarding, call/apply |                    |
 | 10. Function binding                     |                    |
