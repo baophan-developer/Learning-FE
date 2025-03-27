@@ -76,7 +76,7 @@ Link resource: https://javascript.info/
 | 6. Function object, NFE                  | :heavy_check_mark: |
 | 7. The "new Function" syntax             | :heavy_check_mark: |
 | 8. Scheduling: setTimeout, setInterval   | :heavy_check_mark: |
-| 9. Decorators and forwarding, call/apply |                    |
+| 9. Decorators and forwarding, call/apply | :heavy_check_mark: |
 | 10. Function binding                     |                    |
 | 11. Arrow functions revisited            |                    |
 
