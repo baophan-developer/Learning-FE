@@ -77,7 +77,7 @@ Link resource: https://javascript.info/
 | 7. The "new Function" syntax             | :heavy_check_mark: |
 | 8. Scheduling: setTimeout, setInterval   | :heavy_check_mark: |
 | 9. Decorators and forwarding, call/apply | :heavy_check_mark: |
-| 10. Function binding                     |                    |
+| 10. Function binding                     | :heavy_check_mark: |
 | 11. Arrow functions revisited            |                    |
 
 **VI. Error handling**
