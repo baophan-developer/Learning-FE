@@ -78,7 +78,7 @@ Link resource: https://javascript.info/
 | 8. Scheduling: setTimeout, setInterval   | :heavy_check_mark: |
 | 9. Decorators and forwarding, call/apply | :heavy_check_mark: |
 | 10. Function binding                     | :heavy_check_mark: |
-| 11. Arrow functions revisited            |                    |
+| 11. Arrow functions revisited            | :heavy_check_mark: |
 
 **VI. Error handling**
 
